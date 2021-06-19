@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "543142634119",
+    "project_id": "amanda-makeup",
+    "storage_bucket": "amanda-makeup.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:543142634119:android:c0569b4a88ce7a70ab4e22",
+        "android_client_info": {
+          "package_name": "my.amanda.Makeup_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "543142634119-unfcrfc994jnocomrclqufo55rcjoald.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6NNnZxKkKCqej4YGdgwP0Mwzc0xkPKyI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "543142634119-unfcrfc994jnocomrclqufo55rcjoald.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
